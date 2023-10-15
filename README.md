@@ -1,4 +1,4 @@
-#DNS Spoofer
+# DNS Spoofer
 
 Overview
 DNS Spoofer is a powerful and adaptable tool designed for educational and research purposes to explore and understand DNS protocol vulnerabilities. This tool allows you to simulate and analyze DNS spoofing attacks, helping you assess network security and implement robust defense mechanisms.
